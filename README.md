@@ -20,19 +20,19 @@ Beyond just writing code, I'm striving to learn the entire development process -
 
  <br/>
  
- **<h2 align="left">Skills</h2>**
+ **<h2 align="left">👩‍💻 Skills</h2>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Threejs" style="margin-right: 4px"></div>
 
  <br/>
  
-**<h2 align="left">🏷️Contacts</h2>**
+**<h2 align="left">🏷️ Contacts</h2>**
 
 <p align="left"><a href="eepy2.23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" style="margin-right: 4px"></a> <a href="https://github.com/eepyn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/명희-신-59b4a0218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style="margin-right: 4px"></a></p>
 
  <br/>
  
- **<h2 align="left">GitHub Stats</h2>**
+ **<h2 align="left">📊 GitHub Stats</h2>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
