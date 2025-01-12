@@ -40,3 +40,8 @@ Beyond just writing code, I'm striving to learn the entire development process -
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eepyn&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=300" alt="GitHub top-langs Card" />
 </p>
 
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
+
