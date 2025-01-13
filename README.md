@@ -32,9 +32,6 @@ Beyond just writing code, I'm striving to learn the entire development process -
   <a href="mailto:eepy2.23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
-  <a href="https://github.com/eepyz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/명희-신-59b4a0218/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
