@@ -16,7 +16,13 @@
 
 <h3 align="center">
 I'm a junior developer with a genuine passion for coding and always eager to grow. <br/>
-Beyond just writing code, I'm striving to learn the entire development process - from architecture to implementation - building my skills brick by brick.</h3>
+Beyond just writing code, I'm striving to learn the entire development process - from architecture to implementation - building my skills brick by brick.
+</h3>
+
+ **<h2 align="left">📌 Portfolio</h2>**
+[![✨ Portfolio](https://img.shields.io/badge/✨_Portfolio-eepyz.github.io-ffb6c1?style=for-the-badge)](https://eepyz.github.io/)
+
+
 
  <br/>
  
